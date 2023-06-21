@@ -46,8 +46,7 @@ Feel free to explore the different sections, navigate through the projects, and 
 
 Contributing
 
-I welcome contributions and feedback. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Contributions are subject to the guidelines outlined in the CONTRIBUTING.md file.
-
+I welcome contributions and feedback. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. 
 Contact
 
 You can reach me via email at wondermike31@gmail.com. You can also connect with me on LinkedIn and Twitter.
