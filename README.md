@@ -1,4 +1,4 @@
-BIO.ZIP- Portfolio Website
+BIO.ZIP  - Portfolio Website
 
 Welcome to my portfolio website repository! This website showcases my skills, projects, and experiences in my field 
 
@@ -54,8 +54,7 @@ You can reach me via email at wondermike31@gmail.com. You can also connect with 
 
 
 
-MYCRUD.ZIP 
-PHP CRUD Application
+MYCRUD.ZIP-   PHP CRUD Application
 This is a simple PHP CRUD application that allows you to perform basic Create, Read, Update, and Delete operations on a database.
 Features
 * Create: Add new records to the database.
