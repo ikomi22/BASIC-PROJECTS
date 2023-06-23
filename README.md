@@ -50,11 +50,11 @@ I welcome contributions and feedback. If you find any issues or have suggestions
 Contact
 
 You can reach me via email at wondermike31@gmail.com. You can also connect with me on LinkedIn and Twitter.
+END___________________________________
 
 
 
-
-MYCRUD.ZIP   PHP CRUD Application
+MYCRUD.ZIP-  PHP CRUD Application;
 
 
 This is a simple PHP CRUD application that allows you to perform basic Create, Read, Update, and Delete operations on a database.
